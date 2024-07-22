@@ -1,0 +1,882 @@
+transaction_id,customer_id,transaction_date,spending_amount,expense_type,expense_description
+4073,709831983,1-25-24 16:49,7.84,Restaurant,Fast food
+4074,709831983,1-27-24 2:14,16.94,Health,Optometrist visit
+4075,709831983,1-27-24 4:38,261.29,Restaurant,Dinner
+4076,709831983,1-27-24 8:27,12.99,Groceries,Supermarket shopping
+4077,709831983,1-29-24 18:35,12.43,Entertainment,Cinema ticket
+4078,709831983,1-31-24 6:38,5,Groceries,Farmer's market
+4079,709831983,1-31-24 20:08,22.65,Entertainment,Museum entry
+4080,709831983,02-03-24 13:32,21.07,Entertainment,Cinema ticket
+4081,709831983,02-04-24 9:21,16.12,Clothing,Retail store shopping
+4082,709831983,02-06-24 23:07,247.74,Restaurant,Breakfast
+4083,709831983,02-08-24 0:16,24.2,Groceries,Supermarket shopping
+4084,709831983,02-08-24 3:21,20.73,Health,Pharmacy
+4085,709831983,02-09-24 0:36,22.3,Health,Doctor appointment
+4086,709831983,02-09-24 8:06,13.71,Technology,Gadget store
+4087,709831983,02-11-24 0:34,14.62,Entertainment,Amusement park
+4088,709831983,02-11-24 7:02,205.16,Miscellaneous,Home supplies
+4089,709831983,2-14-24 11:47,11.81,Transportation,Flight ticket
+4090,709831983,2-16-24 6:41,5.74,Clothing,Online clothing shopping
+4091,709831983,2-16-24 18:45,264.54,Restaurant,Lunch
+4092,709831983,2-17-24 9:35,143.62,Restaurant,Cafe
+4093,709831983,2-21-24 22:02,65.03,Groceries,Farmer's market
+4094,709831983,2-22-24 23:47,29.77,Groceries,Farmer's market
+4095,709831983,2-23-24 17:34,52.33,Health,Pharmacy
+4096,709831983,2-23-24 21:14,65.09,Miscellaneous,Gifts
+4097,709831983,2-26-24 14:35,9.58,Health,Therapy session
+4098,709831983,2-27-24 9:34,10.34,Clothing,Boutique shopping
+4099,709831983,2-29-24 18:17,47.2,Miscellaneous,Donations
+4100,709831983,03-01-24 20:11,42.38,Restaurant,Dinner
+4101,709831983,03-01-24 22:50,67.49,Restaurant,Lunch
+4102,709831983,03-02-24 1:59,64.25,Clothing,Boutique shopping
+4103,709831983,03-02-24 5:38,63.01,Transportation,Flight ticket
+4104,709831983,03-03-24 23:59,176.15,Technology,Gadget store
+4105,709831983,03-04-24 8:32,17.35,Health,Doctor appointment
+4106,709831983,03-04-24 9:24,12.44,Restaurant,Breakfast
+4107,709831983,03-04-24 16:36,12.68,Groceries,Farmer's market
+4108,709831983,03-04-24 23:04,12.53,Health,Doctor appointment
+4109,709831983,03-05-24 7:34,8.08,Entertainment,Concert ticket
+4110,709831983,03-08-24 5:53,5,Restaurant,Dinner
+4111,709831983,03-11-24 1:25,132.37,Health,Doctor appointment
+4112,709831983,03-11-24 7:55,88.93,Transportation,Flight ticket
+4113,709831983,03-12-24 6:54,32.75,Technology,Software purchase
+4114,709831983,03-12-24 16:07,18.92,Technology,Hardware purchase
+4115,709831983,3-18-24 2:09,65.53,Groceries,Farmer's market
+4116,709831983,3-18-24 6:55,56.93,Miscellaneous,Pet supplies
+4117,709831983,3-21-24 2:37,6.45,Transportation,Car rental
+4118,709831983,3-26-24 2:51,5.91,Technology,Hardware purchase
+4119,709831983,3-28-24 2:38,151.13,Clothing,Boutique shopping
+4120,709831983,3-29-24 0:16,6.78,Technology,Software purchase
+4121,709831983,3-29-24 15:26,29.42,Health,Optometrist visit
+4122,709831983,3-29-24 18:53,133.22,Health,Doctor appointment
+4123,709831983,3-29-24 22:22,204.78,Transportation,Gas station
+4124,709831983,3-30-24 20:16,29.73,Entertainment,Concert ticket
+4125,709831983,3-31-24 14:29,32.53,Entertainment,Cinema ticket
+4126,709831983,3-31-24 18:27,172.43,Transportation,Bus ticket
+4127,709831983,3-31-24 22:29,13.89,Technology,Software purchase
+4128,709831983,04-01-24 2:04,33.35,Technology,Software purchase
+4129,709831983,04-04-24 1:36,25.83,Groceries,Supermarket shopping
+4130,709831983,04-07-24 1:09,9.86,Groceries,Grocery store shopping
+4131,709831983,04-09-24 5:40,26.31,Entertainment,Museum entry
+4132,709831983,04-09-24 13:30,13.4,Miscellaneous,Pet supplies
+4133,709831983,04-10-24 11:44,156.1,Technology,Online tech shopping
+4134,709831983,04-10-24 14:35,29.46,Miscellaneous,Home supplies
+4135,709831983,04-10-24 16:06,13.38,Clothing,Footwear store
+4136,709831983,04-12-24 23:09,38.9,Clothing,Retail store shopping
+4137,709831983,4-16-24 17:33,32.62,Miscellaneous,Gifts
+4138,709831983,4-18-24 4:28,6.85,Health,Pharmacy
+4139,709831983,4-20-24 9:14,10,Clothing,Thrift store
+4140,709831983,4-21-24 13:26,4.99,Miscellaneous,Gifts
+4141,709831983,4-22-24 5:07,213.54,Miscellaneous,Donations
+4142,709831983,4-22-24 13:22,84.94,Entertainment,Sport event ticket
+4143,709831983,4-26-24 7:59,106.09,Transportation,Bus ticket
+4144,709831983,4-28-24 9:21,14.74,Restaurant,Dinner
+4145,709831983,4-28-24 11:54,90.47,Technology,Hardware purchase
+4146,709831983,4-28-24 21:59,106.7,Groceries,Farmer's market
+4147,709831983,4-30-24 12:14,29.43,Transportation,Taxi
+4148,709831983,05-01-24 21:11,4.99,Restaurant,Lunch
+4149,709831983,05-03-24 20:17,13.49,Restaurant,Dinner
+4150,709831983,05-04-24 5:10,26.29,Groceries,Grocery store shopping
+4151,709831983,05-05-24 15:02,99.01,Technology,Hardware purchase
+4152,709831983,05-06-24 10:42,7.79,Technology,Online tech shopping
+4153,709831983,05-09-24 6:16,20.66,Clothing,Online clothing shopping
+4154,709831983,05-09-24 8:36,45.89,Restaurant,Dinner
+4155,709831983,05-09-24 16:02,253.23,Technology,Hardware purchase
+4156,709831983,05-10-24 14:24,13.53,Entertainment,Concert ticket
+4157,709831983,5-13-24 0:49,23.41,Clothing,Online clothing shopping
+4158,709831983,5-16-24 22:06,22.77,Transportation,Flight ticket
+4159,709831983,5-17-24 7:31,35.47,Miscellaneous,Gifts
+4160,709831983,5-17-24 12:06,33.22,Entertainment,Cinema ticket
+4161,709831983,5-17-24 13:43,22.51,Miscellaneous,Hobbies
+4162,709831983,5-18-24 4:41,17.47,Transportation,Train ticket
+4163,709831983,5-20-24 0:53,7.21,Clothing,Footwear store
+4164,709831983,5-27-24 1:15,378.83,Entertainment,Sport event ticket
+4165,709831983,06-08-24 5:31,23.93,Entertainment,Cinema ticket
+4166,709831983,06-08-24 18:22,48.26,Entertainment,Museum entry
+4167,709831983,06-09-24 20:49,31.47,Miscellaneous,Gifts
+4168,709831983,06-11-24 9:36,50.68,Health,Dental care
+4169,709831983,6-13-24 21:55,56.57,Groceries,Supermarket shopping
+4170,709831983,6-18-24 17:28,555.43,Clothing,Footwear store
+4171,709831983,6-21-24 21:15,29.34,Entertainment,Cinema ticket
+4172,709831983,6-21-24 22:19,125.22,Restaurant,Dinner
+4173,709831983,6-22-24 5:27,92.24,Clothing,Boutique shopping
+4174,709831983,6-26-24 8:21,14.67,Clothing,Online clothing shopping
+4175,709831983,6-29-24 7:03,159.76,Technology,Electronics shopping
+4176,709831983,6-29-24 8:36,343,Restaurant,Dinner
+4177,709831983,07-01-24 11:33,22.56,Transportation,Gas station
+4178,709831983,07-03-24 4:38,28.65,Clothing,Online clothing shopping
+4179,709831983,07-05-24 2:15,19.78,Clothing,Thrift store
+4180,709831983,07-05-24 9:47,278.22,Restaurant,Cafe
+4181,709831983,07-05-24 17:59,19.26,Groceries,Farmer's market
+4182,709831983,07-08-24 20:12,24.95,Health,Dental care
+4183,709831983,07-09-24 21:32,102.28,Health,Dental care
+4184,709831983,07-11-24 2:34,8.68,Entertainment,Cinema ticket
+4185,709831983,07-12-24 10:12,4.99,Clothing,Retail store shopping
+4186,709831983,07-12-24 23:54,26.15,Health,Pharmacy
+4187,709831983,7-16-24 3:22,5.25,Restaurant,Brunch
+4188,709831983,7-18-24 13:15,16.03,Clothing,Thrift store
+4189,709831983,7-18-24 15:57,4.99,Health,Therapy session
+29330,766131033,1-25-24 23:39,16.04,Transportation,Taxi
+29331,766131033,1-26-24 0:23,114.71,Clothing,Thrift store
+29332,766131033,1-29-24 13:02,629.43,Miscellaneous,Hobbies
+29333,766131033,02-02-24 2:44,59.83,Clothing,Thrift store
+29334,766131033,02-12-24 15:12,43.01,Entertainment,Sport event ticket
+29335,766131033,2-21-24 4:21,30.72,Groceries,Farmer's market
+29336,766131033,2-21-24 13:16,33.49,Clothing,Retail store shopping
+29337,766131033,2-23-24 3:41,26.59,Restaurant,Dinner
+29338,766131033,2-24-24 21:08,267.7,Entertainment,Theater ticket
+29339,766131033,2-26-24 1:56,14.85,Restaurant,Brunch
+29340,766131033,2-26-24 3:42,36.71,Health,Optometrist visit
+29341,766131033,2-27-24 10:34,34.25,Transportation,Gas station
+29342,766131033,2-28-24 7:28,29.34,Groceries,Organic food store
+29343,766131033,2-29-24 6:12,128.79,Groceries,Organic food store
+29344,766131033,03-01-24 9:37,17.72,Transportation,Car rental
+29345,766131033,03-04-24 12:40,11.62,Transportation,Car rental
+29346,766131033,03-05-24 15:46,26.8,Miscellaneous,Donations
+29347,766131033,03-10-24 10:01,16.96,Clothing,Boutique shopping
+29348,766131033,03-10-24 18:04,14.84,Entertainment,Sport event ticket
+29349,766131033,03-11-24 8:05,22.71,Transportation,Train ticket
+29350,766131033,03-11-24 22:13,20.17,Groceries,Grocery store shopping
+29351,766131033,03-12-24 8:04,311.14,Miscellaneous,Home supplies
+29352,766131033,3-13-24 20:56,6.46,Technology,Hardware purchase
+29353,766131033,3-14-24 10:31,36.36,Clothing,Thrift store
+29354,766131033,3-20-24 8:53,32.65,Miscellaneous,Pet supplies
+29355,766131033,3-23-24 5:32,10.94,Restaurant,Cafe
+29356,766131033,3-24-24 15:33,10.66,Transportation,Train ticket
+29357,766131033,3-25-24 2:10,93.1,Health,Dental care
+29358,766131033,3-25-24 6:59,23.22,Groceries,Farmer's market
+29359,766131033,3-25-24 12:07,4.96,Restaurant,Brunch
+29360,766131033,3-26-24 2:19,4.96,Groceries,Organic food store
+29361,766131033,3-27-24 14:18,12.58,Transportation,Car rental
+29362,766131033,3-28-24 20:43,5.65,Technology,Software purchase
+29363,766131033,3-29-24 5:13,76.8,Miscellaneous,Hobbies
+29364,766131033,3-30-24 16:13,4.96,Transportation,Car rental
+29365,766131033,3-31-24 1:33,5.65,Transportation,Gas station
+29366,766131033,3-31-24 7:55,63.41,Clothing,Online clothing shopping
+29367,766131033,04-02-24 15:49,11.68,Miscellaneous,Other expenses
+29368,766131033,04-06-24 9:36,95.13,Technology,Online tech shopping
+29369,766131033,04-08-24 22:14,9.65,Groceries,Organic food store
+29370,766131033,04-11-24 15:06,55.86,Transportation,Car rental
+29371,766131033,04-11-24 21:32,4.96,Miscellaneous,Gifts
+29372,766131033,04-12-24 7:19,7.41,Health,Doctor appointment
+29373,766131033,4-15-24 6:24,71.93,Entertainment,Amusement park
+29374,766131033,4-16-24 1:05,21.87,Health,Doctor appointment
+29375,766131033,4-16-24 1:40,60.38,Groceries,Grocery store shopping
+29376,766131033,4-18-24 14:04,7,Transportation,Gas station
+29377,766131033,4-18-24 16:50,66.92,Miscellaneous,Donations
+29378,766131033,4-19-24 16:52,66.77,Clothing,Thrift store
+29379,766131033,4-23-24 3:12,20.93,Clothing,Online clothing shopping
+29380,766131033,4-25-24 3:21,4.97,Clothing,Retail store shopping
+29381,766131033,4-28-24 0:01,10.61,Transportation,Gas station
+29382,766131033,4-28-24 1:22,11.31,Restaurant,Breakfast
+29383,766131033,05-03-24 10:21,20.84,Miscellaneous,Pet supplies
+29384,766131033,05-06-24 23:52,94.07,Clothing,Online clothing shopping
+29385,766131033,05-07-24 19:31,11.83,Transportation,Bus ticket
+29386,766131033,05-07-24 22:50,205.35,Restaurant,Cafe
+29387,766131033,05-08-24 12:14,112.98,Groceries,Supermarket shopping
+29388,766131033,05-10-24 2:18,11.23,Miscellaneous,Gifts
+29389,766131033,05-12-24 2:18,17.64,Clothing,Thrift store
+29390,766131033,5-14-24 3:10,94.58,Transportation,Car rental
+29391,766131033,5-15-24 8:51,106.75,Groceries,Supermarket shopping
+29392,766131033,5-16-24 23:37,4.97,Transportation,Taxi
+29393,766131033,5-18-24 21:48,24.15,Clothing,Footwear store
+29394,766131033,5-20-24 2:16,10.87,Transportation,Flight ticket
+29395,766131033,5-20-24 5:21,7.09,Clothing,Online clothing shopping
+29396,766131033,5-21-24 3:16,7.64,Entertainment,Amusement park
+29397,766131033,5-23-24 6:02,29.15,Clothing,Retail store shopping
+29398,766131033,5-25-24 9:30,30.86,Transportation,Bus ticket
+29399,766131033,5-28-24 0:41,19.9,Restaurant,Brunch
+29400,766131033,5-29-24 12:15,30.99,Transportation,Taxi
+29401,766131033,5-30-24 14:47,23.44,Technology,Online tech shopping
+29402,766131033,5-31-24 21:31,7.15,Entertainment,Amusement park
+29403,766131033,06-02-24 3:38,29.59,Technology,Online tech shopping
+29404,766131033,06-02-24 18:04,28.51,Health,Therapy session
+29405,766131033,06-04-24 0:43,16.13,Miscellaneous,Home supplies
+29406,766131033,06-04-24 16:42,113.38,Miscellaneous,Home supplies
+29407,766131033,06-04-24 19:35,95,Health,Pharmacy
+29408,766131033,06-05-24 13:12,13.48,Restaurant,Cafe
+29409,766131033,06-07-24 2:48,282.06,Groceries,Farmer's market
+29410,766131033,06-08-24 5:10,6.35,Entertainment,Amusement park
+29411,766131033,6-16-24 18:54,25.42,Technology,Software purchase
+29412,766131033,6-18-24 8:24,18.99,Groceries,Organic food store
+29413,766131033,6-23-24 19:46,65.93,Miscellaneous,Pet supplies
+29414,766131033,6-24-24 14:08,46.19,Entertainment,Museum entry
+29415,766131033,6-27-24 16:29,16.22,Entertainment,Theater ticket
+29416,766131033,6-27-24 19:18,9.55,Groceries,Farmer's market
+29417,766131033,6-28-24 14:36,38.8,Technology,Hardware purchase
+29418,766131033,6-29-24 5:39,7.37,Health,Pharmacy
+29419,766131033,07-06-24 2:49,194.56,Technology,Gadget store
+29420,766131033,07-11-24 15:57,41.91,Transportation,Gas station
+29421,766131033,7-16-24 11:01,563.22,Groceries,Grocery store shopping
+29422,766131033,7-19-24 9:57,14.87,Transportation,Car rental
+24062,720067083,1-22-24 5:35,42.28,Technology,Software purchase
+24063,720067083,1-22-24 20:05,41.06,Miscellaneous,Pet supplies
+24064,720067083,1-23-24 17:14,77.08,Miscellaneous,Home supplies
+24065,720067083,1-26-24 7:20,147.35,Restaurant,Dinner
+24066,720067083,02-07-24 3:49,143.58,Transportation,Flight ticket
+24067,720067083,02-10-24 15:09,164.52,Clothing,Retail store shopping
+24068,720067083,2-14-24 9:02,157.61,Miscellaneous,Home supplies
+24069,720067083,2-16-24 19:21,16.04,Entertainment,Amusement park
+24070,720067083,2-17-24 2:12,12.55,Restaurant,Dinner
+24071,720067083,2-20-24 12:28,18.16,Health,Optometrist visit
+24072,720067083,2-21-24 23:44,20.72,Entertainment,Theater ticket
+24073,720067083,2-22-24 23:58,23.73,Restaurant,Breakfast
+24074,720067083,2-26-24 7:55,5,Restaurant,Fast food
+24075,720067083,2-27-24 0:25,9.81,Restaurant,Lunch
+24076,720067083,2-29-24 14:21,44.09,Technology,Gadget store
+24077,720067083,03-01-24 11:34,109.81,Transportation,Taxi
+24078,720067083,03-05-24 3:15,175.65,Entertainment,Sport event ticket
+24079,720067083,03-08-24 13:34,21.01,Entertainment,Museum entry
+24080,720067083,03-09-24 11:29,37.91,Groceries,Supermarket shopping
+24081,720067083,3-14-24 13:47,190.35,Transportation,Train ticket
+24082,720067083,3-14-24 23:16,25.88,Restaurant,Dinner
+24083,720067083,3-19-24 1:57,22.69,Miscellaneous,Hobbies
+24084,720067083,3-27-24 3:14,23.9,Groceries,Grocery store shopping
+24085,720067083,3-27-24 15:29,104.34,Clothing,Boutique shopping
+24086,720067083,3-28-24 8:57,15.58,Groceries,Organic food store
+24087,720067083,3-28-24 21:29,4.98,Entertainment,Concert ticket
+24088,720067083,3-29-24 11:07,253.65,Groceries,Farmer's market
+24089,720067083,04-02-24 11:23,80.58,Health,Optometrist visit
+24090,720067083,04-05-24 18:10,18.43,Health,Doctor appointment
+24091,720067083,04-07-24 18:41,33.15,Groceries,Farmer's market
+24092,720067083,04-08-24 12:35,8.05,Technology,Electronics shopping
+24093,720067083,04-08-24 21:31,13.05,Technology,Hardware purchase
+24094,720067083,04-10-24 9:51,8.79,Restaurant,Breakfast
+24095,720067083,04-12-24 7:51,48.83,Technology,Software purchase
+24096,720067083,04-12-24 15:17,8.59,Entertainment,Museum entry
+24097,720067083,4-13-24 22:13,13.78,Restaurant,Dinner
+24098,720067083,4-17-24 5:01,11.91,Transportation,Gas station
+24099,720067083,4-18-24 11:23,4.98,Groceries,Organic food store
+24100,720067083,4-20-24 13:03,12.68,Technology,Software purchase
+24101,720067083,4-20-24 17:36,16.45,Entertainment,Sport event ticket
+24102,720067083,4-20-24 17:55,107.42,Miscellaneous,Donations
+24103,720067083,4-21-24 13:14,168.35,Entertainment,Theater ticket
+24104,720067083,4-22-24 7:20,27.37,Restaurant,Cafe
+24105,720067083,4-24-24 18:15,33.66,Health,Therapy session
+24106,720067083,4-28-24 20:51,29.17,Miscellaneous,Gifts
+24107,720067083,05-05-24 7:13,19.69,Transportation,Gas station
+24108,720067083,05-06-24 11:24,26.39,Technology,Hardware purchase
+24109,720067083,05-06-24 18:06,18.96,Technology,Software purchase
+24110,720067083,05-08-24 2:40,33.66,Transportation,Flight ticket
+24111,720067083,05-08-24 21:19,9.61,Entertainment,Concert ticket
+24112,720067083,05-10-24 2:45,304.26,Groceries,Supermarket shopping
+24113,720067083,05-10-24 17:50,43.08,Miscellaneous,Pet supplies
+24114,720067083,05-12-24 18:43,4.98,Transportation,Bus ticket
+24115,720067083,5-13-24 12:27,24.4,Groceries,Organic food store
+24116,720067083,5-14-24 10:13,8.76,Clothing,Retail store shopping
+24117,720067083,5-14-24 19:03,24.29,Clothing,Online clothing shopping
+24118,720067083,5-14-24 22:47,17.35,Technology,Online tech shopping
+24119,720067083,5-16-24 14:32,27.79,Miscellaneous,Gifts
+24120,720067083,5-17-24 19:55,33.07,Technology,Electronics shopping
+24121,720067083,5-19-24 19:35,8.68,Health,Therapy session
+24122,720067083,5-19-24 20:06,29.16,Transportation,Train ticket
+24123,720067083,5-25-24 11:52,10.41,Restaurant,Dinner
+24124,720067083,06-06-24 11:11,60.15,Clothing,Thrift store
+24125,720067083,06-06-24 12:05,5.68,Groceries,Farmer's market
+24126,720067083,06-08-24 8:05,11.6,Technology,Software purchase
+24127,720067083,06-11-24 0:04,5.69,Miscellaneous,Other expenses
+24128,720067083,06-11-24 23:55,82.46,Technology,Software purchase
+24129,720067083,06-12-24 18:21,7.79,Transportation,Bus ticket
+24130,720067083,6-15-24 21:06,237.04,Technology,Hardware purchase
+24131,720067083,6-16-24 19:46,110.45,Entertainment,Theater ticket
+24132,720067083,6-17-24 6:50,487.81,Groceries,Farmer's market
+24133,720067083,6-24-24 11:59,11.65,Miscellaneous,Donations
+24134,720067083,6-24-24 14:50,19.75,Entertainment,Theater ticket
+24135,720067083,6-25-24 14:55,14.17,Transportation,Car rental
+24136,720067083,6-26-24 18:42,7.44,Miscellaneous,Donations
+24137,720067083,6-27-24 18:01,9.2,Clothing,Retail store shopping
+24138,720067083,6-29-24 20:38,83.41,Technology,Electronics shopping
+24139,720067083,6-30-24 20:53,13.74,Clothing,Footwear store
+24140,720067083,07-01-24 13:22,18.68,Health,Doctor appointment
+24141,720067083,07-01-24 18:13,12.28,Technology,Gadget store
+24142,720067083,07-03-24 4:30,127.71,Miscellaneous,Donations
+24143,720067083,07-08-24 13:06,45.35,Entertainment,Theater ticket
+24144,720067083,07-09-24 20:07,80.68,Entertainment,Sport event ticket
+24145,720067083,07-10-24 6:51,14.76,Transportation,Train ticket
+24146,720067083,07-12-24 0:31,4.98,Miscellaneous,Other expenses
+24147,720067083,7-13-24 11:19,8.78,Groceries,Grocery store shopping
+24148,720067083,7-13-24 22:02,18.22,Transportation,Taxi
+24149,720067083,7-15-24 19:08,13.39,Entertainment,Concert ticket
+24150,720067083,7-16-24 8:47,173.39,Restaurant,Cafe
+24151,720067083,7-18-24 5:30,27.84,Technology,Online tech shopping
+24152,720067083,7-19-24 5:31,14.25,Clothing,Thrift store
+18582,716790633,1-23-24 23:18,702.01,Clothing,Thrift store
+18583,716790633,1-24-24 15:33,149.77,Restaurant,Fast food
+18584,716790633,1-26-24 9:42,1015.35,Entertainment,Museum entry
+18585,716790633,1-26-24 17:24,970.1,Technology,Online tech shopping
+18586,716790633,1-28-24 15:51,149.13,Entertainment,Cinema ticket
+18587,716790633,1-31-24 14:18,1569.69,Groceries,Supermarket shopping
+18588,716790633,02-02-24 10:25,833.65,Miscellaneous,Pet supplies
+18589,716790633,02-04-24 11:43,3127.1,Health,Optometrist visit
+18590,716790633,02-05-24 17:06,33.8,Technology,Electronics shopping
+18591,716790633,02-06-24 2:37,218.17,Restaurant,Fast food
+18592,716790633,02-06-24 7:46,194.86,Restaurant,Cafe
+18593,716790633,02-06-24 14:10,936.57,Technology,Gadget store
+18594,716790633,02-07-24 11:31,171.38,Health,Pharmacy
+18595,716790633,2-13-24 17:28,20.87,Clothing,Boutique shopping
+18596,716790633,2-13-24 22:37,380.79,Entertainment,Museum entry
+18597,716790633,2-15-24 4:19,98.15,Transportation,Bus ticket
+18598,716790633,2-16-24 7:51,142.55,Transportation,Car rental
+18599,716790633,2-17-24 10:13,1574.38,Miscellaneous,Other expenses
+18600,716790633,2-18-24 0:17,150.36,Miscellaneous,Pet supplies
+18601,716790633,2-21-24 1:14,174.81,Entertainment,Museum entry
+18602,716790633,2-21-24 3:59,166.65,Technology,Electronics shopping
+18603,716790633,2-22-24 13:47,221.58,Technology,Hardware purchase
+18604,716790633,2-23-24 16:42,1388.13,Groceries,Farmer's market
+18605,716790633,2-26-24 12:43,278.32,Clothing,Footwear store
+18606,716790633,2-28-24 0:34,335.33,Groceries,Grocery store shopping
+18607,716790633,2-28-24 1:06,2634.8,Clothing,Boutique shopping
+18608,716790633,2-28-24 10:54,31.44,Technology,Online tech shopping
+18609,716790633,2-28-24 19:54,307.22,Technology,Online tech shopping
+18610,716790633,2-29-24 21:29,261.22,Clothing,Online clothing shopping
+18611,716790633,03-02-24 0:49,114.23,Miscellaneous,Donations
+18612,716790633,03-06-24 11:46,345.28,Health,Optometrist visit
+18613,716790633,03-09-24 3:07,367.28,Clothing,Footwear store
+18614,716790633,03-10-24 20:14,208.62,Miscellaneous,Pet supplies
+18615,716790633,3-14-24 21:57,1916.71,Clothing,Thrift store
+18616,716790633,3-26-24 8:54,3614.73,Clothing,Retail store shopping
+18617,716790633,04-04-24 13:55,1123.75,Technology,Electronics shopping
+18618,716790633,04-07-24 23:33,609.08,Restaurant,Lunch
+18619,716790633,04-09-24 4:58,619.07,Clothing,Online clothing shopping
+18620,716790633,04-11-24 4:12,602.11,Health,Dental care
+18621,716790633,04-11-24 19:17,246.79,Clothing,Thrift store
+18622,716790633,4-16-24 16:45,50.9,Health,Dental care
+18623,716790633,4-17-24 3:21,1324.45,Restaurant,Lunch
+18624,716790633,4-20-24 12:39,358.7,Groceries,Supermarket shopping
+18625,716790633,4-22-24 16:00,758.32,Health,Therapy session
+18626,716790633,4-23-24 6:12,1266.92,Restaurant,Brunch
+18627,716790633,4-24-24 3:25,46.94,Technology,Software purchase
+18628,716790633,4-25-24 3:09,262.47,Clothing,Online clothing shopping
+18629,716790633,05-01-24 7:19,150.3,Clothing,Footwear store
+18630,716790633,05-02-24 11:03,213.96,Groceries,Organic food store
+18631,716790633,05-02-24 21:13,1344.98,Miscellaneous,Hobbies
+18632,716790633,05-04-24 3:19,403.78,Clothing,Thrift store
+18633,716790633,05-04-24 16:20,72.57,Restaurant,Cafe
+18634,716790633,05-05-24 11:27,708.91,Transportation,Taxi
+18635,716790633,05-06-24 3:32,57.62,Groceries,Farmer's market
+18636,716790633,05-06-24 5:11,613.05,Technology,Electronics shopping
+18637,716790633,05-06-24 21:04,372.27,Technology,Software purchase
+18638,716790633,05-07-24 11:34,230.24,Entertainment,Amusement park
+18639,716790633,05-09-24 4:09,287.12,Technology,Electronics shopping
+18640,716790633,05-12-24 1:20,2106.89,Groceries,Grocery store shopping
+18641,716790633,05-12-24 18:23,137.53,Entertainment,Amusement park
+18642,716790633,5-22-24 23:02,474.66,Restaurant,Fast food
+18643,716790633,5-23-24 7:20,220.74,Transportation,Car rental
+18644,716790633,5-24-24 3:04,1112.64,Entertainment,Sport event ticket
+18645,716790633,5-24-24 23:03,46.94,Health,Doctor appointment
+18646,716790633,5-28-24 20:28,34.69,Entertainment,Sport event ticket
+18647,716790633,06-04-24 8:17,154.16,Miscellaneous,Gifts
+18648,716790633,06-05-24 8:14,2713.25,Clothing,Footwear store
+18649,716790633,06-08-24 12:53,229.33,Groceries,Supermarket shopping
+18650,716790633,06-09-24 11:31,1200.58,Health,Therapy session
+18651,716790633,06-10-24 13:46,258.86,Technology,Online tech shopping
+18652,716790633,06-11-24 11:29,153.63,Technology,Online tech shopping
+18653,716790633,06-12-24 7:43,126.83,Health,Doctor appointment
+18654,716790633,6-18-24 16:24,138.16,Health,Doctor appointment
+42635,820085808,1-24-24 2:11,19.25,Transportation,Flight ticket
+42636,820085808,1-27-24 3:01,10.03,Clothing,Online clothing shopping
+42637,820085808,1-28-24 12:49,19.72,Restaurant,Cafe
+42638,820085808,1-29-24 6:32,200.81,Restaurant,Dinner
+42639,820085808,1-31-24 13:58,21.91,Clothing,Retail store shopping
+42640,820085808,02-01-24 2:55,105.9,Technology,Software purchase
+42641,820085808,02-02-24 14:27,211.4,Entertainment,Cinema ticket
+42642,820085808,02-03-24 13:15,14.42,Health,Dental care
+42643,820085808,02-03-24 14:47,14.46,Transportation,Car rental
+42644,820085808,02-03-24 23:59,18.31,Restaurant,Dinner
+42645,820085808,02-04-24 5:31,9.27,Miscellaneous,Gifts
+42646,820085808,02-04-24 19:12,13.71,Entertainment,Cinema ticket
+42647,820085808,02-06-24 13:10,205.96,Groceries,Farmer's market
+42648,820085808,02-09-24 11:01,19.58,Entertainment,Museum entry
+42649,820085808,02-09-24 16:41,11.69,Miscellaneous,Hobbies
+42650,820085808,2-16-24 0:01,6.84,Restaurant,Lunch
+42651,820085808,2-18-24 17:01,18.43,Technology,Electronics shopping
+42652,820085808,2-18-24 19:13,68.5,Clothing,Boutique shopping
+42653,820085808,2-22-24 7:40,193.22,Miscellaneous,Donations
+42654,820085808,2-23-24 18:47,85.36,Groceries,Grocery store shopping
+42655,820085808,2-24-24 19:20,27.42,Transportation,Bus ticket
+42656,820085808,2-24-24 23:29,24.6,Transportation,Gas station
+42657,820085808,03-02-24 2:49,12.83,Groceries,Grocery store shopping
+42658,820085808,03-02-24 14:38,12.27,Entertainment,Sport event ticket
+42659,820085808,03-04-24 16:08,13.7,Entertainment,Cinema ticket
+42660,820085808,03-05-24 0:29,184.02,Miscellaneous,Donations
+42661,820085808,03-05-24 5:50,79.37,Groceries,Farmer's market
+42662,820085808,03-05-24 22:53,81.52,Health,Pharmacy
+42663,820085808,03-06-24 19:08,12.39,Restaurant,Lunch
+42664,820085808,03-06-24 19:44,13.71,Health,Therapy session
+42665,820085808,03-06-24 22:23,10.67,Clothing,Online clothing shopping
+42666,820085808,03-07-24 1:31,5.06,Technology,Electronics shopping
+42667,820085808,03-07-24 6:38,5,Entertainment,Cinema ticket
+42668,820085808,03-11-24 9:58,177.08,Health,Therapy session
+42669,820085808,03-12-24 14:17,276.78,Groceries,Grocery store shopping
+42670,820085808,3-15-24 23:50,45.55,Transportation,Gas station
+42671,820085808,3-19-24 11:55,313.77,Health,Dental care
+42672,820085808,3-19-24 20:48,45.35,Groceries,Supermarket shopping
+42673,820085808,3-23-24 4:16,96.96,Transportation,Car rental
+42674,820085808,3-31-24 15:58,355.27,Restaurant,Breakfast
+42675,820085808,04-07-24 2:33,41.34,Groceries,Grocery store shopping
+42676,820085808,04-07-24 18:42,78.37,Clothing,Boutique shopping
+42677,820085808,04-10-24 21:33,49.14,Groceries,Supermarket shopping
+42678,820085808,4-14-24 1:04,38.92,Clothing,Thrift store
+42679,820085808,4-20-24 1:27,623.52,Entertainment,Theater ticket
+42680,820085808,4-21-24 16:06,387.17,Groceries,Farmer's market
+42681,820085808,4-27-24 5:17,56.52,Entertainment,Sport event ticket
+42682,820085808,05-01-24 1:33,50.37,Transportation,Taxi
+42683,820085808,05-07-24 18:45,5,Groceries,Grocery store shopping
+42684,820085808,05-11-24 6:33,52.89,Health,Therapy session
+42685,820085808,05-12-24 23:50,41.57,Health,Optometrist visit
+42686,820085808,5-13-24 2:27,40.47,Clothing,Retail store shopping
+42687,820085808,5-15-24 16:44,38.31,Restaurant,Lunch
+42688,820085808,5-15-24 17:25,109.63,Groceries,Farmer's market
+42689,820085808,5-16-24 16:29,23.76,Clothing,Online clothing shopping
+42690,820085808,5-19-24 2:28,59.24,Health,Pharmacy
+42691,820085808,5-19-24 13:00,5.5,Miscellaneous,Home supplies
+42692,820085808,5-20-24 7:51,92.85,Groceries,Grocery store shopping
+42693,820085808,5-20-24 22:32,10.22,Transportation,Train ticket
+42694,820085808,5-23-24 10:03,91.09,Transportation,Flight ticket
+42695,820085808,5-30-24 10:48,73.8,Miscellaneous,Home supplies
+42696,820085808,06-02-24 12:01,544.69,Transportation,Gas station
+42697,820085808,6-15-24 0:49,87.21,Entertainment,Cinema ticket
+42698,820085808,6-15-24 14:11,176.13,Transportation,Car rental
+42699,820085808,6-16-24 16:13,642.95,Technology,Hardware purchase
+42700,820085808,6-20-24 9:03,59.61,Groceries,Supermarket shopping
+42701,820085808,6-23-24 1:40,24.1,Technology,Gadget store
+42702,820085808,6-23-24 20:09,30.36,Technology,Electronics shopping
+42703,820085808,6-24-24 13:52,23.8,Groceries,Supermarket shopping
+42704,820085808,6-26-24 14:39,16.75,Transportation,Flight ticket
+42705,820085808,6-27-24 1:32,49.71,Transportation,Gas station
+42706,820085808,07-01-24 1:17,24.17,Entertainment,Museum entry
+42707,820085808,07-01-24 10:33,26.91,Entertainment,Concert ticket
+42708,820085808,07-02-24 14:01,5.51,Restaurant,Breakfast
+42709,820085808,07-05-24 19:14,43.7,Clothing,Thrift store
+42710,820085808,07-06-24 7:31,5.95,Groceries,Grocery store shopping
+42711,820085808,07-07-24 18:52,144.74,Health,Optometrist visit
+42712,820085808,07-07-24 19:07,19.56,Clothing,Thrift store
+42713,820085808,07-10-24 21:08,212.83,Health,Dental care
+42714,820085808,07-12-24 16:54,24.64,Technology,Software purchase
+42715,820085808,7-15-24 7:08,24.96,Health,Dental care
+42716,820085808,7-17-24 11:11,9.04,Restaurant,Cafe
+42717,820085808,7-17-24 12:30,14.71,Technology,Electronics shopping
+42718,820085808,7-17-24 22:02,291.74,Miscellaneous,Other expenses
+42719,820085808,7-18-24 15:41,15.67,Restaurant,Cafe
+14121,714499908,1-24-24 20:50,298.44,Clothing,Boutique shopping
+14122,714499908,1-24-24 21:52,92.53,Technology,Gadget store
+14123,714499908,1-26-24 22:44,107.1,Groceries,Supermarket shopping
+14124,714499908,1-27-24 10:58,275.1,Miscellaneous,Hobbies
+14125,714499908,1-27-24 19:14,5,Groceries,Organic food store
+14126,714499908,1-27-24 23:05,24.36,Entertainment,Concert ticket
+14127,714499908,1-30-24 19:12,29.52,Entertainment,Theater ticket
+14128,714499908,02-06-24 2:46,9.71,Transportation,Flight ticket
+14129,714499908,02-06-24 8:38,57.81,Clothing,Retail store shopping
+14130,714499908,02-08-24 7:33,64.39,Health,Doctor appointment
+14131,714499908,02-10-24 5:43,13.86,Groceries,Grocery store shopping
+14132,714499908,02-11-24 9:55,108.56,Transportation,Car rental
+14133,714499908,2-17-24 22:54,7.58,Entertainment,Amusement park
+14134,714499908,2-20-24 11:12,5,Groceries,Farmer's market
+14135,714499908,2-22-24 8:59,43.54,Clothing,Footwear store
+14136,714499908,2-25-24 13:40,50.68,Miscellaneous,Hobbies
+14137,714499908,2-29-24 5:00,22.28,Technology,Hardware purchase
+14138,714499908,03-04-24 1:24,22.35,Miscellaneous,Gifts
+14139,714499908,03-08-24 9:56,39.67,Entertainment,Cinema ticket
+14140,714499908,03-10-24 11:37,36.87,Entertainment,Theater ticket
+14141,714499908,3-15-24 22:22,43.06,Miscellaneous,Pet supplies
+14142,714499908,3-16-24 19:40,704.15,Miscellaneous,Pet supplies
+14143,714499908,3-21-24 20:53,56.6,Miscellaneous,Donations
+14144,714499908,3-23-24 13:10,84.25,Technology,Electronics shopping
+14145,714499908,3-26-24 6:11,90.5,Entertainment,Sport event ticket
+14146,714499908,3-28-24 18:02,29.01,Restaurant,Cafe
+14147,714499908,3-30-24 5:35,47.78,Entertainment,Concert ticket
+14148,714499908,04-02-24 17:47,29.54,Clothing,Retail store shopping
+14149,714499908,04-02-24 20:01,190.93,Restaurant,Cafe
+14150,714499908,4-19-24 2:48,770.68,Clothing,Online clothing shopping
+14151,714499908,4-21-24 11:25,57.31,Miscellaneous,Donations
+14152,714499908,4-21-24 13:02,70.62,Groceries,Farmer's market
+14153,714499908,4-27-24 9:02,48.34,Restaurant,Dinner
+14154,714499908,4-27-24 11:51,139.23,Entertainment,Concert ticket
+14155,714499908,4-30-24 20:04,202.1,Miscellaneous,Pet supplies
+14156,714499908,4-30-24 21:06,195.58,Clothing,Boutique shopping
+14157,714499908,05-01-24 8:03,98.33,Restaurant,Lunch
+14158,714499908,05-11-24 6:46,160.8,Health,Optometrist visit
+14159,714499908,5-22-24 21:54,8.1,Entertainment,Amusement park
+14160,714499908,5-23-24 15:03,99.04,Transportation,Taxi
+14161,714499908,5-24-24 1:40,11.76,Entertainment,Cinema ticket
+14162,714499908,5-24-24 7:11,165.15,Restaurant,Dinner
+14163,714499908,5-26-24 4:10,22.92,Health,Pharmacy
+14164,714499908,5-29-24 15:25,13.31,Technology,Electronics shopping
+14165,714499908,5-31-24 8:38,82.74,Restaurant,Lunch
+14166,714499908,06-01-24 7:21,279.7,Technology,Electronics shopping
+14167,714499908,06-01-24 21:15,25.43,Groceries,Farmer's market
+14168,714499908,06-02-24 10:48,19.1,Groceries,Supermarket shopping
+14169,714499908,06-03-24 9:32,135.48,Transportation,Flight ticket
+14170,714499908,06-05-24 18:26,30.71,Groceries,Organic food store
+14171,714499908,06-05-24 20:25,8.39,Transportation,Car rental
+14172,714499908,06-07-24 19:31,305.04,Restaurant,Breakfast
+14173,714499908,06-10-24 22:15,17.78,Groceries,Farmer's market
+14174,714499908,6-15-24 5:03,25.15,Transportation,Taxi
+14175,714499908,6-16-24 23:21,23.82,Miscellaneous,Gifts
+14176,714499908,6-17-24 3:46,47.52,Miscellaneous,Pet supplies
+14177,714499908,6-18-24 3:42,25.66,Entertainment,Sport event ticket
+14178,714499908,6-19-24 3:22,10,Health,Therapy session
+14179,714499908,6-22-24 15:28,200.74,Groceries,Supermarket shopping
+14180,714499908,07-02-24 15:53,442.81,Transportation,Bus ticket
+14181,714499908,07-04-24 3:01,5.25,Technology,Software purchase
+14182,714499908,07-10-24 8:54,75.64,Clothing,Boutique shopping
+14183,714499908,07-10-24 15:52,34.77,Health,Optometrist visit
+14184,714499908,07-12-24 5:17,46.43,Entertainment,Amusement park
+14185,714499908,7-13-24 11:08,47.81,Clothing,Thrift store
+14186,714499908,7-17-24 0:46,8.81,Health,Dental care
+14187,714499908,7-18-24 7:16,207.88,Restaurant,Cafe
+14188,714499908,7-19-24 16:27,365.29,Clothing,Footwear store
+18764,716966808,1-23-24 18:23,18.93,Entertainment,Museum entry
+18765,716966808,1-24-24 9:52,45.36,Entertainment,Theater ticket
+18766,716966808,1-29-24 12:00,51.9,Technology,Hardware purchase
+18767,716966808,1-30-24 14:00,184.58,Miscellaneous,Hobbies
+18768,716966808,02-04-24 14:54,52.09,Restaurant,Breakfast
+18769,716966808,02-06-24 1:49,18.65,Clothing,Thrift store
+18770,716966808,02-07-24 4:16,203.3,Technology,Online tech shopping
+18771,716966808,02-07-24 21:53,36.39,Entertainment,Concert ticket
+18772,716966808,02-08-24 11:25,222.2,Groceries,Farmer's market
+18773,716966808,02-09-24 18:32,43.46,Miscellaneous,Other expenses
+18774,716966808,2-17-24 9:20,20.46,Health,Doctor appointment
+18775,716966808,2-18-24 20:27,23.77,Restaurant,Dinner
+18776,716966808,2-19-24 10:27,564.13,Miscellaneous,Home supplies
+18777,716966808,2-22-24 8:14,1120.4,Restaurant,Fast food
+18778,716966808,2-22-24 11:34,42.28,Transportation,Car rental
+18779,716966808,2-25-24 13:45,45.61,Technology,Gadget store
+18780,716966808,2-25-24 13:47,74.96,Groceries,Grocery store shopping
+18781,716966808,2-25-24 16:33,97.68,Transportation,Flight ticket
+18782,716966808,03-04-24 8:57,99.88,Miscellaneous,Gifts
+18783,716966808,03-11-24 14:27,50.21,Groceries,Grocery store shopping
+18784,716966808,3-18-24 2:13,101.27,Groceries,Grocery store shopping
+18785,716966808,3-18-24 15:12,108.52,Groceries,Grocery store shopping
+18786,716966808,3-20-24 17:20,84.1,Entertainment,Cinema ticket
+18787,716966808,3-22-24 9:19,18.01,Miscellaneous,Pet supplies
+18788,716966808,3-22-24 15:43,68.04,Entertainment,Cinema ticket
+18789,716966808,3-30-24 3:45,16.92,Transportation,Gas station
+18790,716966808,04-01-24 1:34,11.49,Miscellaneous,Gifts
+18791,716966808,04-02-24 13:34,47.62,Restaurant,Lunch
+18792,716966808,04-03-24 4:57,13.65,Health,Doctor appointment
+18793,716966808,04-05-24 3:00,25.68,Restaurant,Cafe
+18794,716966808,04-06-24 4:59,33.72,Groceries,Grocery store shopping
+18795,716966808,04-06-24 23:38,16.37,Transportation,Car rental
+18796,716966808,04-08-24 1:13,35.19,Groceries,Farmer's market
+18797,716966808,04-08-24 21:30,298.95,Technology,Software purchase
+18798,716966808,04-09-24 0:43,12.53,Groceries,Farmer's market
+18799,716966808,04-10-24 3:35,34.63,Clothing,Retail store shopping
+18800,716966808,04-10-24 17:23,310.93,Groceries,Farmer's market
+18801,716966808,04-10-24 19:17,12.46,Miscellaneous,Home supplies
+18802,716966808,04-11-24 2:28,18.28,Groceries,Farmer's market
+18803,716966808,04-11-24 21:08,16.42,Health,Pharmacy
+18804,716966808,4-15-24 10:30,19.32,Restaurant,Breakfast
+18805,716966808,4-17-24 19:35,286.85,Miscellaneous,Pet supplies
+18806,716966808,4-18-24 10:02,16.58,Restaurant,Cafe
+18807,716966808,4-20-24 22:14,47.22,Transportation,Gas station
+18808,716966808,4-21-24 12:30,11.72,Miscellaneous,Donations
+18809,716966808,4-24-24 8:08,31.55,Restaurant,Lunch
+18810,716966808,4-28-24 16:05,40.91,Technology,Hardware purchase
+18811,716966808,05-02-24 21:17,54.46,Miscellaneous,Donations
+18812,716966808,05-04-24 6:19,516.56,Miscellaneous,Other expenses
+18813,716966808,05-07-24 14:08,145.75,Restaurant,Lunch
+18814,716966808,05-07-24 16:21,273.41,Transportation,Taxi
+18815,716966808,05-09-24 1:37,55.62,Entertainment,Sport event ticket
+18816,716966808,05-10-24 23:05,21.55,Restaurant,Brunch
+18817,716966808,05-12-24 11:00,259.61,Technology,Online tech shopping
+18818,716966808,5-13-24 14:56,59.82,Miscellaneous,Gifts
+18819,716966808,5-16-24 18:36,83.11,Entertainment,Cinema ticket
+18820,716966808,5-18-24 7:46,300.59,Entertainment,Concert ticket
+18821,716966808,5-20-24 16:40,27.75,Transportation,Taxi
+18822,716966808,5-22-24 19:48,260.41,Technology,Gadget store
+18823,716966808,5-22-24 23:14,24.63,Technology,Software purchase
+18824,716966808,5-23-24 18:31,9.43,Restaurant,Lunch
+18825,716966808,5-24-24 1:18,24.51,Clothing,Footwear store
+18826,716966808,5-26-24 3:21,75.06,Entertainment,Theater ticket
+18827,716966808,5-26-24 17:05,36.83,Groceries,Supermarket shopping
+18828,716966808,5-28-24 9:41,19.74,Miscellaneous,Home supplies
+18829,716966808,5-29-24 19:18,31.99,Restaurant,Lunch
+18830,716966808,06-02-24 2:10,177.97,Technology,Software purchase
+18831,716966808,06-03-24 3:39,10.41,Groceries,Farmer's market
+18832,716966808,06-03-24 21:10,365.8,Restaurant,Lunch
+18833,716966808,06-05-24 16:00,7.74,Groceries,Supermarket shopping
+18834,716966808,06-06-24 12:54,100.07,Technology,Gadget store
+18835,716966808,06-06-24 21:39,5,Restaurant,Dinner
+18836,716966808,06-08-24 16:35,9.86,Transportation,Bus ticket
+18837,716966808,06-09-24 21:17,166.58,Groceries,Supermarket shopping
+18838,716966808,06-10-24 7:33,20.92,Technology,Electronics shopping
+18839,716966808,06-10-24 23:21,21.07,Entertainment,Cinema ticket
+18840,716966808,6-16-24 6:42,22.81,Entertainment,Concert ticket
+18841,716966808,6-21-24 17:51,71.98,Entertainment,Concert ticket
+18842,716966808,6-22-24 11:16,353.5,Restaurant,Cafe
+18843,716966808,6-26-24 6:11,118.17,Transportation,Bus ticket
+18844,716966808,6-28-24 4:45,55.75,Transportation,Car rental
+18845,716966808,6-29-24 1:04,59.06,Technology,Online tech shopping
+18846,716966808,6-29-24 10:43,65.99,Transportation,Gas station
+18847,716966808,6-30-24 8:26,29.15,Transportation,Car rental
+18848,716966808,07-02-24 5:22,566.2,Technology,Electronics shopping
+18849,716966808,07-05-24 20:43,62.56,Entertainment,Cinema ticket
+18850,716966808,07-06-24 2:34,122.25,Restaurant,Dinner
+18851,716966808,07-07-24 0:34,218.99,Health,Doctor appointment
+18852,716966808,07-08-24 1:53,82.15,Clothing,Retail store shopping
+18853,716966808,07-12-24 4:20,82.36,Groceries,Organic food store
+18854,716966808,7-16-24 13:35,56.34,Restaurant,Fast food
+18855,716966808,7-17-24 6:35,38.79,Transportation,Bus ticket
+18856,716966808,7-19-24 12:54,18.59,Health,Optometrist visit
+15877,715485483,1-25-24 19:24,51.79,Entertainment,Cinema ticket
+15878,715485483,1-26-24 18:56,331.33,Entertainment,Amusement park
+15879,715485483,1-29-24 7:14,49.44,Clothing,Boutique shopping
+15880,715485483,02-01-24 3:56,10.8,Restaurant,Fast food
+15881,715485483,02-06-24 4:28,73.21,Groceries,Organic food store
+15882,715485483,02-07-24 4:57,664.23,Miscellaneous,Donations
+15883,715485483,02-07-24 12:18,136.49,Health,Therapy session
+15884,715485483,02-08-24 3:58,15.29,Entertainment,Cinema ticket
+15885,715485483,02-09-24 15:50,75.69,Restaurant,Fast food
+15886,715485483,02-12-24 9:42,60.57,Entertainment,Amusement park
+15887,715485483,2-13-24 14:15,5,Restaurant,Cafe
+15888,715485483,2-16-24 1:00,38.62,Transportation,Bus ticket
+15889,715485483,2-18-24 5:24,25.13,Transportation,Gas station
+15890,715485483,2-18-24 19:55,41.45,Health,Pharmacy
+15891,715485483,2-20-24 3:08,68.87,Transportation,Flight ticket
+15892,715485483,2-20-24 21:57,345.35,Miscellaneous,Gifts
+15893,715485483,2-21-24 13:27,11.76,Miscellaneous,Home supplies
+15894,715485483,2-22-24 12:14,109.96,Transportation,Flight ticket
+15895,715485483,2-22-24 15:07,1017.88,Health,Dental care
+15896,715485483,2-22-24 23:37,155.45,Technology,Electronics shopping
+15897,715485483,2-26-24 23:19,180.95,Clothing,Boutique shopping
+15898,715485483,03-01-24 10:24,22.95,Clothing,Thrift store
+15899,715485483,03-02-24 0:26,208.37,Restaurant,Fast food
+15900,715485483,03-02-24 8:23,105.93,Clothing,Retail store shopping
+15901,715485483,03-02-24 23:22,51.07,Transportation,Gas station
+15902,715485483,03-03-24 0:33,24.36,Miscellaneous,Other expenses
+15903,715485483,03-06-24 22:52,96.37,Health,Doctor appointment
+15904,715485483,3-14-24 1:49,67.03,Miscellaneous,Home supplies
+15905,715485483,3-14-24 12:59,6.65,Health,Pharmacy
+15906,715485483,3-15-24 9:34,75.8,Restaurant,Fast food
+15907,715485483,3-16-24 6:31,103.22,Groceries,Farmer's market
+15908,715485483,3-22-24 14:36,24.43,Health,Therapy session
+15909,715485483,3-22-24 15:46,9.73,Miscellaneous,Donations
+15910,715485483,3-24-24 6:26,269.02,Miscellaneous,Gifts
+15911,715485483,3-24-24 11:21,29.38,Miscellaneous,Hobbies
+15912,715485483,3-25-24 10:48,597.1,Groceries,Supermarket shopping
+15913,715485483,3-25-24 16:19,46.71,Clothing,Retail store shopping
+15914,715485483,3-27-24 13:09,131.82,Groceries,Supermarket shopping
+15915,715485483,04-03-24 17:28,18.79,Health,Dental care
+15916,715485483,04-05-24 4:39,51.64,Health,Pharmacy
+15917,715485483,04-05-24 8:33,36.64,Entertainment,Theater ticket
+15918,715485483,04-05-24 19:26,34.6,Entertainment,Theater ticket
+15919,715485483,04-06-24 12:10,41.56,Transportation,Bus ticket
+15920,715485483,04-07-24 5:09,243.97,Technology,Gadget store
+15921,715485483,04-08-24 8:47,7.62,Technology,Software purchase
+15922,715485483,04-12-24 11:55,21.93,Restaurant,Lunch
+15923,715485483,4-13-24 22:02,37.62,Restaurant,Lunch
+15924,715485483,4-13-24 22:46,30.68,Technology,Electronics shopping
+15925,715485483,4-15-24 10:49,33.75,Miscellaneous,Home supplies
+15926,715485483,4-15-24 22:54,44.29,Restaurant,Dinner
+15927,715485483,4-17-24 6:37,57.61,Groceries,Organic food store
+15928,715485483,4-17-24 15:05,162.89,Entertainment,Amusement park
+15929,715485483,4-17-24 17:40,18.94,Miscellaneous,Hobbies
+15930,715485483,4-17-24 18:14,506.68,Miscellaneous,Home supplies
+15931,715485483,4-17-24 18:51,23.44,Entertainment,Cinema ticket
+15932,715485483,4-18-24 22:12,7.59,Miscellaneous,Hobbies
+15933,715485483,4-21-24 22:27,17.91,Health,Dental care
+15934,715485483,4-22-24 13:43,19.98,Groceries,Grocery store shopping
+15935,715485483,4-23-24 2:03,204.85,Technology,Online tech shopping
+15936,715485483,4-29-24 17:17,512.12,Technology,Software purchase
+15937,715485483,05-05-24 5:45,47.18,Entertainment,Theater ticket
+15938,715485483,05-07-24 10:45,36.39,Clothing,Retail store shopping
+15939,715485483,05-07-24 12:37,537.41,Transportation,Gas station
+15940,715485483,5-14-24 19:08,49.53,Transportation,Flight ticket
+15941,715485483,5-17-24 12:31,191.81,Groceries,Grocery store shopping
+15942,715485483,5-23-24 1:19,76.37,Transportation,Flight ticket
+15943,715485483,5-24-24 2:48,82.83,Health,Optometrist visit
+15944,715485483,5-27-24 5:55,190.35,Entertainment,Cinema ticket
+15945,715485483,5-27-24 9:09,24.26,Transportation,Car rental
+15946,715485483,5-30-24 6:32,72.06,Technology,Software purchase
+15947,715485483,06-01-24 13:27,62.58,Technology,Hardware purchase
+15948,715485483,06-04-24 2:22,96.5,Miscellaneous,Other expenses
+15949,715485483,06-04-24 3:48,686.74,Entertainment,Theater ticket
+15950,715485483,06-05-24 15:11,389.93,Clothing,Retail store shopping
+15951,715485483,06-09-24 8:11,160.48,Entertainment,Concert ticket
+15952,715485483,06-10-24 2:48,232.14,Entertainment,Cinema ticket
+15953,715485483,06-11-24 17:12,13.69,Miscellaneous,Pet supplies
+15954,715485483,6-14-24 1:23,28.78,Health,Pharmacy
+15955,715485483,6-18-24 10:16,32.26,Miscellaneous,Hobbies
+32206,778888083,1-22-24 18:22,28.95,Entertainment,Concert ticket
+32207,778888083,1-24-24 2:48,165.54,Restaurant,Breakfast
+32208,778888083,1-25-24 10:11,880.33,Transportation,Bus ticket
+32209,778888083,1-25-24 12:16,132.3,Miscellaneous,Donations
+32210,778888083,1-29-24 3:36,13.28,Transportation,Train ticket
+32211,778888083,1-31-24 14:42,379.62,Miscellaneous,Hobbies
+32212,778888083,02-07-24 6:32,49.13,Miscellaneous,Hobbies
+32213,778888083,02-09-24 4:11,127.24,Technology,Gadget store
+32214,778888083,2-15-24 15:05,97.29,Entertainment,Concert ticket
+32215,778888083,2-22-24 3:43,36.6,Entertainment,Cinema ticket
+32216,778888083,2-22-24 15:38,55.07,Transportation,Taxi
+32217,778888083,2-23-24 1:38,14.02,Clothing,Boutique shopping
+32218,778888083,2-27-24 1:26,53.38,Restaurant,Brunch
+32219,778888083,2-28-24 1:41,27.33,Clothing,Thrift store
+32220,778888083,2-28-24 17:14,34.64,Clothing,Thrift store
+32221,778888083,2-29-24 14:38,33.48,Groceries,Organic food store
+32222,778888083,03-03-24 10:28,11.35,Entertainment,Cinema ticket
+32223,778888083,03-04-24 19:10,729.65,Miscellaneous,Donations
+32224,778888083,03-05-24 1:09,57.89,Groceries,Supermarket shopping
+32225,778888083,03-05-24 4:03,28.48,Health,Dental care
+32226,778888083,03-06-24 14:41,281.39,Groceries,Supermarket shopping
+32227,778888083,03-06-24 21:05,58.99,Entertainment,Concert ticket
+32228,778888083,03-07-24 19:35,308.13,Restaurant,Brunch
+32229,778888083,03-12-24 20:50,71.87,Clothing,Online clothing shopping
+32230,778888083,3-15-24 3:05,28.26,Groceries,Organic food store
+32231,778888083,3-15-24 5:01,36.28,Miscellaneous,Donations
+32232,778888083,3-17-24 2:50,364.65,Restaurant,Dinner
+32233,778888083,3-17-24 12:39,57.61,Groceries,Organic food store
+32234,778888083,3-17-24 14:17,119.34,Miscellaneous,Gifts
+32235,778888083,3-17-24 19:30,45.76,Restaurant,Dinner
+32236,778888083,3-17-24 23:52,72.83,Groceries,Organic food store
+32237,778888083,3-20-24 2:18,38.26,Groceries,Farmer's market
+32238,778888083,3-20-24 4:30,337.31,Restaurant,Brunch
+32239,778888083,3-22-24 8:12,241.91,Clothing,Online clothing shopping
+32240,778888083,3-23-24 7:17,17.33,Transportation,Car rental
+32241,778888083,3-23-24 23:53,237.96,Miscellaneous,Other expenses
+32242,778888083,3-24-24 5:10,71.59,Entertainment,Museum entry
+32243,778888083,3-25-24 13:00,11.95,Entertainment,Cinema ticket
+32244,778888083,3-25-24 19:07,144.5,Miscellaneous,Gifts
+32245,778888083,3-26-24 9:27,6.29,Groceries,Farmer's market
+32246,778888083,3-26-24 11:31,23.6,Restaurant,Dinner
+32247,778888083,3-26-24 14:06,26.14,Restaurant,Fast food
+32248,778888083,04-01-24 16:35,244.76,Restaurant,Fast food
+32249,778888083,04-03-24 19:04,157.04,Clothing,Boutique shopping
+32250,778888083,04-07-24 19:46,7.92,Groceries,Organic food store
+32251,778888083,04-08-24 6:47,83.17,Entertainment,Museum entry
+32252,778888083,04-08-24 8:53,24.61,Clothing,Thrift store
+32253,778888083,04-08-24 10:12,22.3,Groceries,Organic food store
+32254,778888083,04-09-24 6:16,10.88,Restaurant,Fast food
+32255,778888083,04-11-24 2:42,73.87,Restaurant,Cafe
+32256,778888083,04-12-24 2:53,111.68,Transportation,Gas station
+32257,778888083,4-13-24 11:05,97.41,Groceries,Organic food store
+32258,778888083,4-13-24 22:27,5,Clothing,Boutique shopping
+32259,778888083,4-16-24 14:28,8.71,Restaurant,Brunch
+32260,778888083,4-16-24 22:48,21.05,Groceries,Farmer's market
+32261,778888083,4-17-24 14:49,8.82,Transportation,Taxi
+32262,778888083,4-18-24 18:53,11.68,Clothing,Thrift store
+32263,778888083,4-20-24 22:44,168.28,Restaurant,Dinner
+32264,778888083,4-22-24 15:51,37.74,Clothing,Online clothing shopping
+32265,778888083,4-23-24 14:06,13.71,Health,Doctor appointment
+32266,778888083,4-25-24 13:56,843.85,Health,Doctor appointment
+32267,778888083,05-01-24 11:17,771.81,Restaurant,Brunch
+32268,778888083,05-04-24 7:38,22.76,Clothing,Thrift store
+32269,778888083,05-05-24 16:07,32.12,Clothing,Online clothing shopping
+32270,778888083,05-07-24 6:53,55.53,Entertainment,Concert ticket
+32271,778888083,5-16-24 7:57,366.12,Miscellaneous,Donations
+32272,778888083,5-20-24 13:56,73.36,Health,Dental care
+32273,778888083,5-21-24 11:19,103.87,Groceries,Farmer's market
+32274,778888083,5-23-24 4:23,16.87,Restaurant,Brunch
+32275,778888083,5-25-24 5:37,10.81,Technology,Electronics shopping
+32276,778888083,5-25-24 14:26,186.6,Technology,Electronics shopping
+32277,778888083,5-25-24 21:11,18.84,Clothing,Retail store shopping
+32278,778888083,5-27-24 16:04,21.79,Clothing,Boutique shopping
+32279,778888083,06-02-24 21:03,21.1,Health,Doctor appointment
+32280,778888083,06-03-24 17:00,149.47,Groceries,Farmer's market
+32281,778888083,06-04-24 6:49,84.21,Groceries,Organic food store
+32282,778888083,06-04-24 16:13,72.15,Groceries,Organic food store
+32283,778888083,06-07-24 1:31,8.43,Clothing,Thrift store
+32284,778888083,06-07-24 6:32,10.54,Entertainment,Cinema ticket
+32285,778888083,06-08-24 7:09,49.93,Health,Optometrist visit
+32286,778888083,06-10-24 22:20,26.16,Technology,Online tech shopping
+32287,778888083,6-13-24 0:23,12.46,Miscellaneous,Other expenses
+32288,778888083,6-13-24 15:57,250.17,Health,Doctor appointment
+32289,778888083,6-13-24 23:36,20.83,Clothing,Online clothing shopping
+32290,778888083,6-15-24 14:38,124.29,Miscellaneous,Pet supplies
+32291,778888083,6-16-24 12:16,6.05,Groceries,Farmer's market
+32292,778888083,6-16-24 13:01,235.73,Transportation,Car rental
+32293,778888083,6-16-24 22:04,4.99,Entertainment,Cinema ticket
+32294,778888083,6-17-24 1:54,77.72,Groceries,Organic food store
+32295,778888083,6-19-24 8:44,15.87,Miscellaneous,Donations
+32296,778888083,6-19-24 20:30,175.65,Technology,Software purchase
+16144,715705683,1-27-24 3:52,391.14,Clothing,Boutique shopping
+16145,715705683,1-28-24 12:53,41.25,Groceries,Supermarket shopping
+16146,715705683,1-28-24 22:16,86.35,Clothing,Online clothing shopping
+16147,715705683,02-06-24 14:46,80.34,Technology,Gadget store
+16148,715705683,2-14-24 4:03,311.81,Technology,Hardware purchase
+16149,715705683,2-21-24 8:19,7.86,Miscellaneous,Home supplies
+16150,715705683,2-21-24 14:41,21.38,Technology,Online tech shopping
+16151,715705683,2-24-24 18:01,11.67,Groceries,Grocery store shopping
+16152,715705683,2-25-24 8:36,75.44,Clothing,Thrift store
+16153,715705683,2-29-24 2:57,12.59,Health,Therapy session
+16154,715705683,03-02-24 13:08,12.8,Clothing,Boutique shopping
+16155,715705683,03-08-24 9:12,26.65,Technology,Software purchase
+16156,715705683,03-09-24 10:11,117.09,Transportation,Taxi
+16157,715705683,03-12-24 9:31,22.26,Clothing,Footwear store
+16158,715705683,3-14-24 6:52,123.93,Entertainment,Concert ticket
+16159,715705683,3-14-24 20:46,7.93,Entertainment,Amusement park
+16160,715705683,3-15-24 4:44,223.87,Miscellaneous,Pet supplies
+16161,715705683,3-16-24 3:27,122.72,Entertainment,Cinema ticket
+16162,715705683,3-17-24 11:24,9.81,Clothing,Boutique shopping
+16163,715705683,3-18-24 14:21,7.58,Entertainment,Amusement park
+16164,715705683,3-19-24 21:37,15.25,Entertainment,Sport event ticket
+16165,715705683,3-21-24 11:19,254.13,Entertainment,Concert ticket
+16166,715705683,3-21-24 21:09,22.21,Restaurant,Fast food
+16167,715705683,3-23-24 19:19,52.77,Technology,Electronics shopping
+16168,715705683,3-26-24 20:09,13.03,Technology,Gadget store
+16169,715705683,3-31-24 14:17,12.96,Health,Therapy session
+16170,715705683,04-02-24 11:42,159.42,Health,Optometrist visit
+16171,715705683,04-04-24 1:20,163.46,Entertainment,Cinema ticket
+16172,715705683,04-05-24 5:11,27.76,Entertainment,Cinema ticket
+16173,715705683,04-08-24 16:43,13.59,Technology,Gadget store
+16174,715705683,04-10-24 20:19,239.35,Entertainment,Museum entry
+16175,715705683,4-14-24 15:04,25.04,Entertainment,Museum entry
+16176,715705683,4-17-24 14:57,99.79,Miscellaneous,Hobbies
+16177,715705683,4-19-24 5:16,39.35,Transportation,Taxi
+16178,715705683,4-24-24 3:03,22.25,Clothing,Retail store shopping
+16179,715705683,4-25-24 21:51,320.45,Miscellaneous,Home supplies
+16180,715705683,4-27-24 2:19,39.88,Transportation,Car rental
+16181,715705683,4-27-24 18:22,29.94,Miscellaneous,Other expenses
+16182,715705683,4-28-24 11:22,6.91,Restaurant,Fast food
+16183,715705683,05-01-24 8:09,15.36,Clothing,Retail store shopping
+16184,715705683,05-04-24 2:17,8.57,Clothing,Boutique shopping
+16185,715705683,05-05-24 0:00,28.6,Technology,Electronics shopping
+16186,715705683,05-05-24 4:03,4.99,Restaurant,Breakfast
+16187,715705683,05-06-24 16:54,92.16,Health,Therapy session
+16188,715705683,05-06-24 18:17,47.58,Miscellaneous,Other expenses
+16189,715705683,05-06-24 21:17,47.2,Entertainment,Theater ticket
+16190,715705683,05-08-24 10:06,12.02,Transportation,Train ticket
+16191,715705683,05-08-24 23:03,160.45,Restaurant,Fast food
+16192,715705683,05-12-24 4:06,21.49,Health,Pharmacy
+16193,715705683,5-14-24 13:56,91.78,Restaurant,Brunch
+16194,715705683,5-14-24 14:32,25.01,Miscellaneous,Gifts
+16195,715705683,5-15-24 2:16,46.29,Clothing,Thrift store
+16196,715705683,5-15-24 14:25,8.43,Restaurant,Fast food
+16197,715705683,5-17-24 10:10,4.99,Groceries,Organic food store
+16198,715705683,5-18-24 21:12,36,Restaurant,Fast food
+16199,715705683,5-19-24 13:48,25.22,Groceries,Farmer's market
+16200,715705683,5-21-24 7:30,83.56,Miscellaneous,Hobbies
+16201,715705683,5-21-24 9:53,119.55,Health,Therapy session
+16202,715705683,5-23-24 3:11,46.4,Miscellaneous,Home supplies
+16203,715705683,5-23-24 9:58,6.22,Clothing,Footwear store
+16204,715705683,5-24-24 10:37,199.63,Clothing,Footwear store
+16205,715705683,5-26-24 11:33,19.41,Clothing,Retail store shopping
+16206,715705683,5-28-24 4:09,42.08,Restaurant,Breakfast
+16207,715705683,5-29-24 0:06,12.55,Technology,Online tech shopping
+16208,715705683,5-29-24 15:59,11.11,Miscellaneous,Home supplies
+16209,715705683,06-01-24 18:28,18.66,Health,Doctor appointment
+16210,715705683,06-03-24 13:01,101.46,Clothing,Boutique shopping
+16211,715705683,06-06-24 10:03,5.5,Entertainment,Concert ticket
+16212,715705683,06-06-24 16:30,46.14,Clothing,Footwear store
+16213,715705683,06-08-24 13:06,15.57,Transportation,Car rental
+16214,715705683,06-09-24 16:57,21.83,Miscellaneous,Home supplies
+16215,715705683,06-11-24 3:21,20.56,Entertainment,Cinema ticket
+16216,715705683,06-11-24 19:44,26.56,Restaurant,Fast food
+16217,715705683,6-13-24 1:41,124.57,Miscellaneous,Other expenses
+16218,715705683,6-16-24 9:22,5,Health,Pharmacy
+16219,715705683,6-19-24 3:12,8.17,Health,Therapy session
+16220,715705683,6-20-24 1:01,40.1,Technology,Software purchase
+16221,715705683,6-21-24 1:49,7.75,Entertainment,Cinema ticket
+16222,715705683,6-21-24 1:56,169.17,Entertainment,Amusement park
+16223,715705683,6-23-24 23:37,72.66,Entertainment,Theater ticket
+16224,715705683,6-24-24 4:17,274.27,Groceries,Organic food store
+16225,715705683,6-25-24 3:22,36.54,Entertainment,Cinema ticket
+16226,715705683,6-27-24 10:22,33.11,Restaurant,Brunch
+16227,715705683,6-30-24 1:13,5.8,Groceries,Organic food store
+16228,715705683,6-30-24 14:26,40.52,Entertainment,Museum entry
+16229,715705683,07-03-24 7:16,19.74,Health,Dental care
+16230,715705683,07-07-24 0:29,4.99,Restaurant,Lunch
+16231,715705683,07-10-24 10:52,29.68,Restaurant,Brunch
+16232,715705683,07-11-24 1:27,42.62,Entertainment,Amusement park
+16233,715705683,7-14-24 19:12,109.17,Groceries,Farmer's market
+16234,715705683,7-19-24 15:05,51.31,Health,Pharmacy
