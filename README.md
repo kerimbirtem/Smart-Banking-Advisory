@@ -22,13 +22,13 @@ The system predicts future spending, offers personalized budgeting suggestions, 
 
 ### Sample Data Visualizations
 **Income Categories Distribution**  
-![Income Categories](income categories.png)  
+![Income Categories](income_catogeries.png)  
 
 **Education Level Distribution**  
 ![Education Level](education_level.png)  
 
 **Customer Age Distribution**  
-![Customer Age Distribution](customer age distrubiton.png)  
+![Customer Age Distribution](customer_age_distrubiton.png)  
 
 **Database Schema**  
 ![Database Schema](db_schema.png)  
