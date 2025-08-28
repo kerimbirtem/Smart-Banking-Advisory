@@ -20,6 +20,19 @@ The system predicts future spending, offers personalized budgeting suggestions, 
 - Base dataset: [Credit Card Customers on Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)  
 - Custom-generated dataset with 510 users, extended with demographic features and simulated transaction histories  
 
+### Sample Data Visualizations
+**Income Categories Distribution**  
+![Income Categories](income categories.png)  
+
+**Education Level Distribution**  
+![Education Level](education_level.png)  
+
+**Customer Age Distribution**  
+![Customer Age Distribution](customer age distrubiton.png)  
+
+**Database Schema**  
+![Database Schema](db_schema.png)  
+
 ---
 
 ## Methodology
@@ -52,4 +65,3 @@ The system predicts future spending, offers personalized budgeting suggestions, 
   - Compare actual vs. predicted transactions  
   - Offer personalized suggestions and warnings  
   - Display interactive visual reports for financial insights  
-
